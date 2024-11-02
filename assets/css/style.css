@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto&display=swap');
+body {      
+   width: 500px;
+   font-family: "Open Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: <400>;
+   font-style: normal;
+   font-variation-settings:
+     "wdth" 100;
+  
+   
+}
+
+.logo {
+border: solid 2px;
+background-color: black;
+width: 100vw;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 100px;
+text-align: center;
+}
+button { 
+    background-color: #f04c2f;
+    color: white;
+    border: transparent;
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+
+}
+.logo-2 {
+    width: 35%;
+}
+.banner {
+    text-align: center;
+    background-image:url(assets/images/banner.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h4 {
+    color: blue;
+
+}
+.red {
+    color: white;
+    border: 1px solid red;
+    height: 200px;
+    padding: 30px;
+    background-color: #f04c2f;
+
+    
+
+}
+div {
+    border-radius: 100px;
+    border: 3px solid black;
+    padding: 40px;
+    box-sizing: border-box;
+    background-image:top ;
+    background-size: 100px 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    text-align: center;
+     
+
+
+}
+
+
+
+
+ 
+
